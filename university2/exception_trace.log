@@ -1,0 +1,35 @@
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
+
+university: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+STRING_8            plus @1                argument_not_void:           
+<0000000003BC14E8>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+ACCOUNT             out @1                                              
+<0000000003BC0F18>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @27                                            
+<0000000003BC05A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003BC05A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+Catcall detected in {ACCOUNT_PROFESSOR}.set_owner for arg#1: expected PROFESSOR but got STUDENT
